@@ -8,5 +8,6 @@
         <page name='Condition'/>
         <page name='Loop'/>
         <page name='Function1'/>
+        <page name='Function2'/>
     </pages>
 </playground>
