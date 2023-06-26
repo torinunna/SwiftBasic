@@ -6,5 +6,6 @@
         <page name='Collection(2)'/>
         <page name='Operator'/>
         <page name='Condition'/>
+        <page name='Loop'/>
     </pages>
 </playground>
