@@ -4,6 +4,7 @@
         <page name='Basic'/>
         <page name='Collection(1)'/>
         <page name='Collection(2)'/>
-        <page name='Operator_Condition'/>
+        <page name='Operator'/>
+        <page name='Condition'/>
     </pages>
 </playground>
