@@ -9,5 +9,6 @@
         <page name='Loop'/>
         <page name='Function1'/>
         <page name='Function2'/>
+        <page name='Closure1'/>
     </pages>
 </playground>
