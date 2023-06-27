@@ -10,5 +10,6 @@
         <page name='Function1'/>
         <page name='Function2'/>
         <page name='Closure1'/>
+        <page name='Closure2'/>
     </pages>
 </playground>
