@@ -2,8 +2,8 @@
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
         <page name='Basic'/>
-        <page name='Collection(1)'/>
-        <page name='Collection(2)'/>
+        <page name='Collection1'/>
+        <page name='Collection2'/>
         <page name='Operator'/>
         <page name='Condition'/>
         <page name='Loop'/>
@@ -13,5 +13,6 @@
         <page name='Closure2'/>
         <page name='Closure3'/>
         <page name='Struct1'/>
+        <page name='Struct2'/>
     </pages>
 </playground>
