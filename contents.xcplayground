@@ -14,5 +14,6 @@
         <page name='Closure3'/>
         <page name='Struct1'/>
         <page name='Struct2'/>
+        <page name='Struct3'/>
     </pages>
 </playground>
