@@ -17,5 +17,6 @@
         <page name='Struct3'/>
         <page name='Struct4'/>
         <page name='Struct5'/>
+        <page name='Class_Inheritance1'/>
     </pages>
 </playground>
