@@ -22,5 +22,6 @@
         <page name='Class_Inheritance3'/>
         <page name='Protocol_Extension1'/>
         <page name='Protocol_Extension2'/>
+        <page name='Protocol_Extension3'/>
     </pages>
 </playground>
