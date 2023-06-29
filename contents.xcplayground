@@ -20,5 +20,6 @@
         <page name='Class_Inheritance1'/>
         <page name='Class_Inheritance2'/>
         <page name='Class_Inheritance3'/>
+        <page name='Protocol_Extension1'/>
     </pages>
 </playground>
