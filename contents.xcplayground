@@ -23,5 +23,6 @@
         <page name='Protocol_Extension1'/>
         <page name='Protocol_Extension2'/>
         <page name='Protocol_Extension3'/>
+        <page name='Optional_Typecastig'/>
     </pages>
 </playground>
